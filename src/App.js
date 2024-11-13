@@ -20,12 +20,12 @@ function App() {
           <h1 className='name'>Gayathiri Ravendirane</h1>
           <nav>
             <Link to="/">Home</Link>
-            <Link to="/research">Research Interests</Link>
+            <Link to="/research">Interests</Link>
             <Link to="/education">Education</Link>
             {/* <Link to="/publications">Publications</Link> */}
             <Link to="/projects">Projects</Link>
             <Link to="/codes">Codes</Link>
-            <a href="mailto:gayathiri.ravendirane@gmail.com?subject=Request%20for%20CV">CV</a>
+            <a href="mailto:gayathiri.ravendirane+webpage@gmail.com?subject=Request%20for%20CV">CV</a>
             <Link to="/links">Links</Link>
             <Link to="/about">About Me</Link>
           </nav>
